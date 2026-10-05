@@ -1,12 +1,11 @@
-# Auto EngDis
+# Auto English Discovery
 Unofficial Bot EngDis API.
-
-บอทสำหรับชาววัยรุ่น KMITL สำหรับวิชา FE1 และ FE2 ค้าบ
-
+# Patch New API
+- UPD 6/10/2026
 ## How to use ?
 โคลนโปรเจคนี้ไปเลยยค้าบวัยรุ่นนนนน
 
-``` git clone https://github.com/BossNz/auto-engdis ```
+``` git clone https://github.com/SEFLASe32/auto-english-discovery ```
 
 แล้วก็ลง package ทั้งหมดก่อน
 โดยใช้คำสั่ง
