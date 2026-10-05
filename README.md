@@ -1,24 +1,27 @@
 # Auto English Discovery
-Unofficial Bot EngDis API.
+- Unofficial Bot EngDis API.
 # Patch New API
 - UPD 6/10/2026
 ## How to use ?
-โคลนโปรเจคนี้ไปเลยยค้าบวัยรุ่นนนนน
+- Clone Project
 
-``` git clone https://github.com/SEFLASe32/auto-english-discovery ```
+```js
+git clone https://github.com/SEFLASe32/auto-english-discovery
+```
 
 แล้วก็ลง package ทั้งหมดก่อน
 โดยใช้คำสั่ง
 
-``` npm install ```
+```js
+npm install
+```
 
 หลังจากลง package เสร็จแล้วสามารถใช้งานได้โดยใช้คำสั่ง
 
 ```js
 node .
 ```
-
-สามารถใช้งานได้แล้ววววววว !!!
+สามารถใช้งานได้
 
 ## WARNING
 This project may be used only for **Educational Purposes**. Developers assume **no liability and are not responsible for any misuse or damage** caused by this program.
